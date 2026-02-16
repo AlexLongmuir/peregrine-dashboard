@@ -5,11 +5,14 @@ import { renderMarkdownToHtml } from "@/lib/markdown";
 
 const PREFERRED = [
   "STATUS.md",
+  "EVENTS.md",
+  "PRD.md",
   "PRD_CLARIFIED.md",
   "DECISIONS.md",
   "DESIGN.md",
   "RESEARCH.md",
   "IMPLEMENTATION_PLAN.md",
+  "REVIEW.md",
   "QA_PLAN.md",
   "ANALYTICS_PLAN.md",
   "COMMS.md",
